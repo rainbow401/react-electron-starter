@@ -1,7 +1,7 @@
 # 启动方式
 cnpm install
 # 架构
-### reacte
+### react
 ### electron 
 将web应用转换为桌面端app
 ### electron-reloader
